@@ -100,7 +100,7 @@ The last step is to install jasmin through `pip <https://pypi.python.org/pypi/pi
 
     sudo pip install jasmin
 
-systemd scripts must be downloaded from `here <https://github.com/jookies/jasmin/tree/master/misc/config/systemd>` and
+systemd scripts must be downloaded from `here <https://github.com/WilfriedTIANI/jasmin/tree/master/misc/config/systemd>` and
 manually installed into your system, once placed in **/lib/systemd/system** jasmind shall be enabled and started::
 
     sudo systemctl enable jasmind
@@ -219,7 +219,7 @@ Simple k8s architecture
 
 This is barely simple architecture with running pods and a SMPP simulator to allow simple functional or performance testing.
 
-.. note:: This section of the guide uses the provided Kubernetes objects located in this `directory <https://github.com/jookies/jasmin/blob/master/kubernetes/simple-pods>`_, please note that you may need to prepare volumes and metallb ip address pools to make these manifests run on your bare-metal K8s cluster.
+.. note:: This section of the guide uses the provided Kubernetes objects located in this `directory <https://github.com/WilfriedTIANI/jasmin/blob/master/kubernetes/simple-pods>`_, please note that you may need to prepare volumes and metallb ip address pools to make these manifests run on your bare-metal K8s cluster.
 .. note:: Please note this set of K8s manifests are prepared for a bare-metal cluster and you may need to adjust it for cloud/managed clusters where volumes, networking and services are handled with a slight difference.
 
 Start by adjusting the namespace in **configmaps.yml**: replace the rabbitmq and redis hosts to hostnames provided by your own Kubernetes cluster then deploy:

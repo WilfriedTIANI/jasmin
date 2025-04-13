@@ -59,7 +59,7 @@ services:
     environment:
       GF_INSTALL_PLUGINS: "grafana-clock-panel,grafana-simple-json-datasource"
     volumes:
-      # These mount points should be copied from https://github.com/jookies/jasmin/tree/master/docker/grafana
+      # These mount points should be copied from https://github.com/WilfriedTIANI/jasmin/tree/master/docker/grafana
       - ./provisioning/datasources:/etc/grafana/provisioning/datasources:ro
       - ./provisioning/dashboards:/etc/grafana/provisioning/dashboards:ro
       - ./dashboards:/opt/grafana-dashboards:ro

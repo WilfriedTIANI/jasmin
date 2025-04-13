@@ -11,7 +11,7 @@
     "smsgw"
   ],
   "website": "https://jasminsms.com",
-  "repository": "https://github.com/jookies/jasmin",
+  "repository": "https://github.com/WilfriedTIANI/jasmin",
   "logo": "https://docs.jasminsms.com/en/latest/_static/jasmin-logo-60x60.png",
   "success_url": "/ping",
   "stack": "heroku-20",

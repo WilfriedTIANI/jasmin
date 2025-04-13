@@ -55,6 +55,6 @@ Documentation for using Jasmin's docker image is located [here](http://docs.jasm
 Issues and support
 ------------------
 
-If you have any problems with or questions about this image, please contact us through a [GitHub issue](https://github.com/jookies/jasmin/issues).
+If you have any problems with or questions about this image, please contact us through a [GitHub issue](https://github.com/WilfriedTIANI/jasmin/issues).
 
 You can also reach out for support [here](https://groups.google.com/forum/#!forum/jasmin-sms-gateway) or by dropping a message to support [at] jookies [dot] net.

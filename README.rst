@@ -31,7 +31,7 @@ high traffic loads and full in-memory execution.
 Architecture
 ************
 
-.. figure:: https://github.com/jookies/jasmin/raw/master/misc/doc/sources/resources/architecture/hld.png
+.. figure:: https://github.com/WilfriedTIANI/jasmin/raw/master/misc/doc/sources/resources/architecture/hld.png
    :alt: HLD Architecture
    :align: Center
    :figwidth: 100%
@@ -62,9 +62,9 @@ Links
 * `Project home page <http://www.jasminsms.com>`_
 * `Documentation <http://docs.jasminsms.com>`_
 * `Support <https://groups.google.com/forum/#!forum/jasmin-sms-gateway>`_
-* `Continuous Integration <https://github.com/jookies/jasmin/actions>`_
-* `Source code <https://github.com/jookies/jasmin>`_
-* `Kubernetes deployment <https://docs.jasminsms.com/en/latest/installation/index.html#kubernetes-cluster>`_ or `/Experimental/ Deploy to Heroku <https://heroku.com/deploy?template=https://github.com/jookies/jasmin>`_
+* `Continuous Integration <https://github.com/WilfriedTIANI/jasmin/actions>`_
+* `Source code <https://github.com/WilfriedTIANI/jasmin>`_
+* `Kubernetes deployment <https://docs.jasminsms.com/en/latest/installation/index.html#kubernetes-cluster>`_ or `/Experimental/ Deploy to Heroku <https://heroku.com/deploy?template=https://github.com/WilfriedTIANI/jasmin>`_
 
 Contributors
 ************
@@ -73,7 +73,7 @@ Contributors
    :alt: Contributors
    :align: Center
    :figwidth: 100%
-   :target: https://github.com/jookies/jasmin/graphs/contributors
+   :target: https://github.com/WilfriedTIANI/jasmin/graphs/contributors
 
 License
 *******
@@ -91,12 +91,12 @@ Credits
 .. |contribs| image:: https://img.shields.io/badge/contributions-welcome-brightgreen?logo=github
     :alt: Contributions welcome
     :scale: 100%
-    :target: https://github.com/jookies/jasmin/blob/master/CODE_OF_CONDUCT.md
+    :target: https://github.com/WilfriedTIANI/jasmin/blob/master/CODE_OF_CONDUCT.md
 
-.. |ci| image:: https://github.com/jookies/jasmin/actions/workflows/ci.yml/badge.svg
+.. |ci| image:: https://github.com/WilfriedTIANI/jasmin/actions/workflows/ci.yml/badge.svg
     :alt: Build status
     :scale: 100%
-    :target: https://github.com/jookies/jasmin/actions
+    :target: https://github.com/WilfriedTIANI/jasmin/actions
 
 .. |ubuntu-package| image:: https://img.shields.io/badge/package-ubuntu-brightgreen.svg?style=flat-square
     :alt: Ubuntu package
@@ -108,10 +108,10 @@ Credits
     :scale: 100%
     :target: https://packagecloud.io/jookies/jasmin-sms-gateway
 
-.. |docker| image:: https://github.com/jookies/jasmin/actions/workflows/docker.yml/badge.svg
+.. |docker| image:: https://github.com/WilfriedTIANI/jasmin/actions/workflows/docker.yml/badge.svg
     :alt: Docker image build status
     :scale: 100%
-    :target: https://github.com/jookies/jasmin/actions
+    :target: https://github.com/WilfriedTIANI/jasmin/actions
 
 .. |docs| image:: https://readthedocs.org/projects/jasmin/badge/?version=latest
     :alt: Documentation status
@@ -121,4 +121,4 @@ Credits
 .. |support| image:: https://img.shields.io/badge/discussions-GitHub-333333?logo=github
     :alt: Github discussions
     :scale: 100%
-    :target: https://github.com/jookies/jasmin/discussions
+    :target: https://github.com/WilfriedTIANI/jasmin/discussions

@@ -1,7 +1,7 @@
 pyasn1~=0.5.0
 
 # @TODO: Upgrade on dependabot issue
-# https://github.com/jookies/jasmin/security/dependabot/19
+# https://github.com/WilfriedTIANI/jasmin/security/dependabot/19
 Twisted~=23.10.0
 
 treq~=23.11.0
@@ -20,7 +20,7 @@ smpp.twisted3~=0.8
 python-messaging~=0.5.13
 
 # Upgrade to min. 41.0.5
-# https://github.com/jookies/jasmin/security/dependabot/19
+# https://github.com/WilfriedTIANI/jasmin/security/dependabot/19
 cryptography~=41.0.5
 pyopenssl~=23.3.0
 
@@ -29,7 +29,7 @@ celery~=5.3.5
 redis~=5.0.1
 
 # Upgraded on dependabot issue
-# https://github.com/jookies/jasmin/security/dependabot/14
+# https://github.com/WilfriedTIANI/jasmin/security/dependabot/14
 requests~=2.31.0
 
 # For REST API
